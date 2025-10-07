@@ -101,7 +101,8 @@ public class stringmethod {
 	     //ex4 ,
 	     String name = "lio messi"; 
 	     System.out.println(name.contains("Lio"));// false L is upper charachter 
-	     System.out.println(name.replace("l", "L").contains("Lio"));
+	     System.out.println(name.replace("l", "L").contains("Lio")); // now is true after we replace l to L ; 
+	     
 
 	    
 	    
