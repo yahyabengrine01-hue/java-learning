@@ -35,7 +35,7 @@ public class stringcomparason {
 		System.out.println(z==w);//false
 		System.out.println(z.equals(w));//true 
 		
-		System.out.println(w==t);//false
+		System.out.println(w==t);//true  //because the object are the same 
 		System.out.println(w.equals(t));//true 
 		
 		
