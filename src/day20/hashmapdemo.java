@@ -56,7 +56,7 @@ public class hashmapdemo {
 		
 		//clear all data 
 		hm.clear();
-		System.out.println("is hashmap is emty "+hm.isEmpty());
+		System.out.println("is hashmap is emty : "+hm.isEmpty());//true
 		
 	}
 
